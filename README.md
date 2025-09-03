@@ -14,19 +14,9 @@ Download the dataset and place the file (`Fake.csv` and `True.csv`) inside the *
 
 ---
 
-## ⚙️ Project Structure
+## ⚙️ Demo
 
-│── Data/ # Dataset folder
-│── app.py # Streamlit app
-│── svm_model.pkl # Trained SVM model
-│── tfidf_vectorizer.pkl # Saved TF-IDF vectorizer
-│── Data & Preprocessing.ipynb # Notebook for cleaning and preprocessing
-│── Feature Engineering & Classical ML Models.ipynb
-│── Sequence_Models.ipynb # RNN, LSTM, GRU experiments
-│── bert.ipynb # BERT fine-tuning
-│── Report.pdf # Project report
-│── Demo.mkv # Demo video
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EF6fqnnl3Uk?si=plqUVR7W5NM7lykd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
